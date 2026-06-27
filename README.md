@@ -181,14 +181,6 @@ The token is returned on successful register or login.
 4. Set **Start Command**: `npm start`
 5. Add the environment variables (`MONGO_URI`, `JWT_SECRET`, `PORT`) in the Render dashboard.
 
-### Railway
-
-1. Create a new project on [railway.app](https://railway.app).
-2. Add a **MongoDB** plugin from the Railway marketplace.
-3. Connect your GitHub repository.
-4. Add environment variables in the Railway dashboard.
-5. Railway will auto-detect `npm start` as the start command.
-
 ---
 
 ## Security Notes
